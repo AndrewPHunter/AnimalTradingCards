@@ -7,6 +7,12 @@ This project was completed as part of the Udacity Front End Web developer nanode
 
 ## Getting Started
 * Clone the repo
+* Install dependencies
+
+```sh
+npm install
+```
+
 * Start the project
 
 ```sh
