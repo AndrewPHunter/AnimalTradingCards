@@ -1,0 +1,28 @@
+{
+  "name": "animaltradingcards",
+  "version": "1.0.0",
+  "description": "Udacity Project for Front End NanoDegree",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --open=card.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewPHunter/AnimalTradingCards.git"
+  },
+  "keywords": [
+    "Udacity",
+    "NanoDegree",
+    "web",
+    "website"
+  ],
+  "author": "Andy Hunter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrewPHunter/AnimalTradingCards/issues"
+  },
+  "homepage": "https://github.com/AndrewPHunter/AnimalTradingCards#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
